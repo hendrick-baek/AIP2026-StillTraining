@@ -8,7 +8,8 @@
 | **기간** | 2026 하계 (2026.07 ~ 2026.08) |
 | **소속** | 충남대학교 항공우주공학과 UASG 연구실 · 하계 학부연구생 |
 | **대회** | 2026 AI Pilot Top Gun Challenge 예선 |
-| **팀** | StillTraining |
+| **팀** | StillTraining — 팀원이 각자 에이전트를 개발한 뒤 가장 성능이 좋은 모델을 제출하는 방식 |
+| **담당** | 개인 개발 전 과정 (강화학습 트랙 · 규칙 기반 BT · 제어기 수정 · 전략 설계) — 이 저장소의 내용은 모두 본인 작업 |
 | **기술** | C++ · BehaviorTree.CPP · Python · Ray RLlib · PyTorch · JSBSim |
 
 ---
